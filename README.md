@@ -9,19 +9,6 @@
 
 <br />
 
-<p align="center">
-  <a href="https://maike-simoncini.github.io/Gerenciador-de-senha/">💻 Clique aqui para acessar o projeto em execução</a>
-</p>
-
-<p align="center">
-  <a href="#-sobre-o-projeto">Sobre</a> •
-  <a href="#-demonstração">Demonstração</a> •
-  <a href="#%EF%B8%8F-modo-de-utilização">Modo de Utilização</a> •
-  <a href="#-tecnologias">Tecnologias</a> •
-  <a href="#%EF%B8%8F-como-executar">Instalação</a> •
-  <a href="#-licença">Licença</a>
-</p>
-
 ---
 
 ## 📱 Sobre o Projeto
@@ -71,3 +58,9 @@ $ git clone [https://github.com/Maike-Simoncini/Gerenciador-de-senha.git](https:
 
 # 2. Acesse a pasta do projeto
 $ cd Gerenciador-de-senha
+
+___
+
+<p align="center">
+  <a href="https://maike-simoncini.github.io/Gerenciador-de-senha/">💻 Clique aqui para acessar o projeto em execução</a>
+</p>
