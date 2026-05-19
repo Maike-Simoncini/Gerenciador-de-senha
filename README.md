@@ -6,7 +6,12 @@
   <img src="https://img.shields.io/github/last-commit/Maike-Simoncini/Gerenciador-de-senha?style=for-the-badge&color=F5A623" alt="Last Commit">
   <img src="https://img.shields.io/github/license/Maike-Simoncini/Gerenciador-de-senha?style=for-the-badge&color=D0021B" alt="License">
 </div>
+
 <br />
+
+<p align="center">
+  <a href="https://maike-simoncini.github.io/Gerenciador-de-senha/">💻 Clique aqui para acessar o projeto em execução</a>
+</p>
 
 ---
 
@@ -59,8 +64,3 @@ $ git clone [https://github.com/Maike-Simoncini/Gerenciador-de-senha.git](https:
 $ cd Gerenciador-de-senha
 
 ```
-___
-
-<p align="center">
-  <a href="https://maike-simoncini.github.io/Gerenciador-de-senha/">💻 Clique aqui para acessar o projeto em execução</a>
-</p>
